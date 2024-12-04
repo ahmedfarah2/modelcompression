@@ -1,0 +1,11 @@
+Pruning Method: Structured Pruning
+Dataset Used: IMDB
+Number of Samples for Inference: 500
+
+Original Model Parameters: 109,483,778
+Original Model Accuracy (%): 83.60
+Original Model Inference Time (avg seconds): 0.0577
+
+Pruned Model Parameters: 103,825,154
+Pruned Model Accuracy (%): 73.40
+Pruned Model Inference Time (avg seconds): 0.0557
